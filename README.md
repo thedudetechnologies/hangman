@@ -8,6 +8,7 @@ install Pyhton
 
 # Run Steps
 1. take a clone or download it using git link
+   ```git clone https://github.com/thedudetechnologies/hangman.git```
 2. create virtual environment.
    example: if python 3
             ```python3 -m venv hangman```
